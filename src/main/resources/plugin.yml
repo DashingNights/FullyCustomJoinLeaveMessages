@@ -1,0 +1,7 @@
+name: JoinMessages
+version: ${project.version}
+main: net.hypedkey.JoinMessages.JoinMessage
+api-version: 1.16
+prefix: JoinMessage
+description: JOIN POG
+website: https://hypedkey.net
